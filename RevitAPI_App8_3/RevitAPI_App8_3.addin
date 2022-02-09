@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddins>
+	<AddIn Type="Command">
+		<Assembly>C:\RevitAPITraining\RevitAPI_App8_3.dll</Assembly>
+		<AddInId>C9A306DA-FAA0-4F85-B8E9-BF327CF98E54</AddInId>
+		<FullClassName>RevitAPI_App8_3.Main</FullClassName>
+		<VendorIT>ADSK</VendorIT>
+		<Text>ЭКСПОРТ В ИЗОБРАЖЕНИЕ</Text>
+	</AddIn>
+</RevitAddins>
